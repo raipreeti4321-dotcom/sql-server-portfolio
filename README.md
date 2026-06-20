@@ -1,47 +1,37 @@
-# sql-server-portfolio# Preety Rai
+SQL Server Portfolio
 
-## SQL Developer | Database Administrator
+Author: Preety Rai
 
-Experienced SQL Developer and DBA with expertise in Microsoft SQL Server, T-SQL development, ETL processes, query optimization, performance tuning, and database administration.
+SQL Developer / Database Administrator
 
-### Technical Skills
+Experience:
+- SQL Server
+- Performance Tuning
+- ETL Development
+- Database Administration
+- Production Support
+- Data Warehousing
 
-* SQL Server
-* T-SQL
-* Stored Procedures
-* Views and Functions
-* Query Optimization
-* Performance Tuning
-* ETL Development
-* SQL Agent Jobs
-* Database Backup & Recovery
-* Window Functions
-* CTEs
-* MERGE Statements
+Projects
 
-### Portfolio Projects
+1. Metadata Driven ETL Framework
+   - Incremental loading
+   - Audit logging
+   - Error handling
 
-#### SQL Performance Tuning
+2. High CPU Query Analysis
+   - DMV analysis
+   - Query tuning
+   - CPU investigation
 
-* Query optimization techniques
-* Indexing strategies
-* Execution plan analysis
+3. Deadlock Investigation
+   - Extended Events
+   - Root cause analysis
 
-#### ETL Development
+4. SQL Agent Monitoring
+   - Failed job detection
+   - Alerting
 
-* Incremental loads
-* Data validation
-* Error handling
-
-#### DBA Scripts
-
-* Backup monitoring
-* Database size reporting
-* Failed job monitoring
-
-#### Advanced SQL
-
-* Window functions
-* Recursive CTEs
-* Dynamic SQL
-
+5. SCD Type 2 Framework
+   - Historical tracking
+   - Data warehouse implementation
